@@ -5,8 +5,8 @@ import (
 
 	"github.com/apex/log"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/go-bridget/twirp-swagger-gen/internal/swagger"
 	"github.com/pkg/errors"
+	"github.com/warmans/twirp-swagger-gen/internal/swagger"
 )
 
 var _ = spew.Dump

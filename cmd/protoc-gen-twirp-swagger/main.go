@@ -6,7 +6,7 @@ import (
 
 	"github.com/apex/log"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/go-bridget/twirp-swagger-gen/internal/swagger"
+	"github.com/warmans/twirp-swagger-gen/internal/swagger"
 	"google.golang.org/protobuf/compiler/protogen"
 )
 
